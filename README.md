@@ -16,15 +16,15 @@ On your local machine, `cd` into the directory created for your clone and switch
 
 Follow the steps in the comments of the following files:
 
-1    FutureMethods
+1    `FutureMethods`
 
-2    FutureMethodsTest
+2    `FutureMethodsTest`
 
-3, 4 FutureMethods
+3, 4 `FutureMethods`
 
-5, 6 QueueableContactsUpdate
+5, 6 `QueueableContactsUpdate`
 
-7, 8 BatchProcessLeadsNoEmployees 
+7, 8 `BatchProcessLeadsNoEmployees` 
 
 
 ## Implementing
