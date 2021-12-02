@@ -34,7 +34,7 @@ need to send them back to Github.
 
 1. Create a scratch org (or connect to an existing one)
 1. Push the code to your scratch org - this will check that your code compiles
-2. Execute the tests - this will check that your triggers are working as expected
+2. Execute the tests
 
 ## Submitting Your Solution for Assessment
 
